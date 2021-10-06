@@ -16,7 +16,6 @@ class CameraDemoActivity : AppCompatActivity() {
         window.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
         setContentView(R.layout.activity_camera_demo)
 
-//      Cara pemanggilan
         surfaceView = findViewById(R.id.surfaceView)
 //        activity, surfaceView
         a = RtmpServer(this, surfaceView)
