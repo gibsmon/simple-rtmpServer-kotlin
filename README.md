@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![](https://jitpack.io/v/gibsmon/simpel-rtmpServer-kotlin.svg)](https://jitpack.io/#gibsmon/simpel-rtmpServer-kotlin)
+[![](https://jitpack.io/v/gibsmon/simple-rtmpServer-kotlin.svg)](https://jitpack.io/#gibsmon/simple-rtmpServer-kotlin)
 ---
 
 ## About <a name = "about"></a>
@@ -18,7 +18,7 @@ https://github.com/pedroSG94/rtmp-rtsp-stream-client-java
 <div align=left>
 
 ``
-implementation 'com.github.gibsmon:simpel-rtmpServer-kotlin:Tag'
+implementation 'com.github.gibsmon:simple-rtmpServer-kotlin:Tag'
 ``
 
 ## Add To Gradle
