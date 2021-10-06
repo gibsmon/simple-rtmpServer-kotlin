@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-
+[![](https://jitpack.io/v/gibsmon/simpel-rtmpServer-kotlin.svg)](https://jitpack.io/#gibsmon/simpel-rtmpServer-kotlin)
 ---
 
 ## About <a name = "about"></a>
