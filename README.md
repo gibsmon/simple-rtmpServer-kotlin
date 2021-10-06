@@ -17,6 +17,10 @@ https://github.com/pedroSG94/rtmp-rtsp-stream-client-java
 ## 🏁 Getting Started <a name = "getting_started"></a>
 <div align=left>
 
+``
+implementation 'com.github.gibsmon:simpel-rtmpServer-kotlin:Tag'
+``
+
 ## Add To Gradle
 ```
 allprojects {
